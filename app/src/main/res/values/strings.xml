@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DotaProPlayers</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="string_image">Imagen</string>
+    <string name="text_view_proplayer">Pro Players</string>
+    <string name="steam_name">Steam Name</string>
+    <string name="country">Country</string>
+    <string name="team_name">Team</string>
+    <string name="URL">https://api.opendota.com/</string>
+    <string name="API">api/proPlayers</string>
+</resources>
